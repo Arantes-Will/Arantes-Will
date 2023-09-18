@@ -4,8 +4,15 @@
                 <b><a target="_blank" href="https://github.com/Arantes-Will">William Arantes</a></b>
         </samp>
 </h3>
-<br>
 
+---
+<div align="center">
+  <a href="https://github.com/Arantes-Will" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/william-arantes-7ab35a27b/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 <p align="center">
         <!-- Intro -->
         <samp>
@@ -14,22 +21,21 @@
   desenvolvido pela Johnson & Johnson MedTech em parceria com a mesttra. 」
             <br>   
         </samp>
-<div align="center">
-  <a href="https://github.com/Arantes-Will" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/william-arantes-7ab35a27b/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
+  <br>
+
+  ---
 
   <div align="center" >
-  <a  href="https://github.com/Arantes-Will">
+ 
+  <a href="https://github.com/Arantes-Will/github-readme-stats">
+  <img width="32.5%"src="https://github-readme-stats.vercel.app/api?username=Arantes-Will&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes-Will&layout=compact&theme=tokyonight" /></a>
+  <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arantes-Will&theme=tokyonight" alt="muskanrani" />
+  
+  <br/>
 
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-  </a>
+ 
 
   
 
