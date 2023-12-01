@@ -18,9 +18,8 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 Bem-vindos ao meu GitHub! Aqui, você acompanhará minha jornada de aprendizado. Atualmente, estou no 1º semestre do curso de Análise e Desenvolvimento de Sistemas.
-  Além disso, participo do programa Santander Bootcamp 2023 - Ciência de Dados com Python / DIO e também do programa 1000Devs,
-  desenvolvido pela Johnson & Johnson MedTech em parceria com a mesttra. 」
+                「 Bem-vindos ao meu GitHub! Aqui, você acompanhará minha jornada de aprendizado. Atualmente, estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas.
+  Além disso, participo do programa 1000Devs, desenvolvido pela Johnson & Johnson MedTech em parceria com a mesttra. 」
             <br>   
         </samp>
   <br>
